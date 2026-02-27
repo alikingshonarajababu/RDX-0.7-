@@ -68,9 +68,9 @@ function loadConfig() {
     } catch (error) {
         logs.error('CONFIG', 'Failed to load config:', error.message);
         config = {
-            BOTNAME: 'RDX',
+            BOTNAME: 'JWNU',
             PREFIX: '.',
-            ADMINBOT: ['100009012838085'],
+            ADMINBOT: ['61551447140312'],
             TIMEZONE: 'Asia/Karachi',
             PREFIX_ENABLED: true,
             REACT_DELETE_EMOJI: '😡',

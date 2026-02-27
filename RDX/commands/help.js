@@ -94,7 +94,7 @@ function showDefaultHelp({ api, event, send, client, config }) {
 
   msg += `────────────────
    💡 Use ${config.PREFIX}help all (Full List)
-   👤 Owner: SARDAR RDX
+   👤 Owner: ROMEO
 ────────────────`;
 
   return send.reply(msg);
@@ -207,7 +207,7 @@ function showFullHelp({ api, event, send, client, config }) {
 
   msg += `────────────────
    💡 Use ${config.PREFIX}help [cmd]
-   👤 Owner: SARDAR RDX
+   👤 Owner: ROMEO
 ────────────────`;
 
   return send.reply(msg);

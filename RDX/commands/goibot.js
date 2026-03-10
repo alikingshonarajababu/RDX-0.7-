@@ -4,7 +4,7 @@ const path = require('path');
 
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
-const API_KEYS = ['PASTE HERE KEY 🗝️'];
+const API_KEYS = ['csk-ddve6xd4mff6wpve2mknjr96e63nxv94vr65xhf4ck8d4cxk'];
 
 // Encoded Owner System
 const SYSTEM_CORE_INTEGRITY = [
